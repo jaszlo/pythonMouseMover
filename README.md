@@ -12,7 +12,7 @@ Those are the all alternative olutions so far:
 
 Any solution presented here will be in a single file. Therefore the pattern for executing them looks as follow:
 ```
-python <nameOfTheCreator>.py
+pip install -r requirements.txt && python <nameOfTheCreator>.py
 ```
 
 
