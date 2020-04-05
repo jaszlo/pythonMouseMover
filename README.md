@@ -5,8 +5,8 @@ In this branch all alternative solutions will be listed. This branch exist for p
 Those are the all alternative olutions so far:
 
 ## HolzmindenScherfede
-[Solution v1.0](https://github.com/jasZnerol/pythonMouseMover/blob/alternativeSolutions/HolzmindenScherfede1.0.py)  
-[Solution v2.0](https://github.com/jasZnerol/pythonMouseMover/blob/alternativeSolutions/HolzmindenScherfede2.0.py)  
+[Solution v1.0](https://github.com/jasZnerol/pythonMouseMover/blob/alternativeSolutions/HolzmindenScherfede1.0.py) with **162** chars  
+[Solution v2.0](https://github.com/jasZnerol/pythonMouseMover/blob/alternativeSolutions/HolzmindenScherfede2.0.py) with **159** charas 
 [Reddit](https://www.reddit.com/user/HolzmindenScherfede/)
 
 
