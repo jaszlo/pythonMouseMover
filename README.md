@@ -5,11 +5,11 @@ In other words **the sauce** must be as compact as possible!
   
 Before all else we want to thank you for choosing **pythonMouseMover**! :)
 
-# Alternative solution
+## Alternative solution
  
 Due to better solutions that I can not possibly take any credit for the branch [alternativeSolutions](https://github.com/jasZnerol/pythonMouseMover/tree/alternativeSolutions) exists.
 
-# Unstable program?
+## Unstable program?
 This program is **very** unstable because of how it checks if the courser has reached the border of the screen.
 
 For instance if you have a screen height of 1080 pixels you need to check if the Y-position of the courser fulfills one of thees conditions:
@@ -28,7 +28,7 @@ In addition the program is written for screens with an aspect ratio of 16:9 with
 You can ignore the aspect ratio as it is a result of the resolution.
 If you have a different resolution and you want this project to *work* as it shohld you will have to make a few adjustments.
 
-# Adjustments
+## Adjustments
 To make this program work for different resolutions you will have to edit **the sauce**.
 Those adjustments will be made in line 7 and 8.
 Change **the sauce** as follows:
@@ -38,18 +38,18 @@ y*=1-2*(m.position[1] in[<HEIGHT_OF_YOUR_SCREEN> - 2,0])
 ```
 The *-2* is optional but i find the program works better and more reliable if the courser does not leave the screen completely. 
 
-# How to run the sauce
+## How to run the sauce
 To run **the sauce** python3 is required. It may run on previous version but it was not intendet to. Due to the minimal nature
 of **the sauce** running it is also very simple and goes as follows:
 ```
 pip install -r requirements.txt && python app.py
 ```
 
-# How to exist the sauce
+## How to exist the sauce
 You can **ctrl + c** to exit the program. If you are on Windows hitting **ctrl + alt + del** will also terminate the program.
 
-# Credits
+## Credits
 See credits [here.](https://github.com/jasZnerol/pythonMouseMover/blob/master/CONTRIBUTING.md)
 
-# License
+## License
 See license [here.](https://github.com/jasZnerol/pythonMouseMover/blob/master/LICENSE)
