@@ -1,5 +1,5 @@
 # pythonMouseMover
-A "screensaver" written in python. **The sauce** should contain as few characters and lines as possible!
+This is an opensauce "screensaver" written in python. **The sauce** should contain as few characters and lines as possible!
 In other words **the sauce** must be as compact as possible!
 
 # Unstable program?
