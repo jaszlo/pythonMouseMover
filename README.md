@@ -28,4 +28,20 @@ Change **the sauce** as follows:
 7   x=-x if m.position[0] in[<YOUR_SCREEN_WIDTH>  - 2,0] else x
 8   y=-y if m.position[1] in[<YOUR_SCREEN_HEIGHT> - 2,0] else y
 ```
-The *-2* is optional but i find the program works better and more reliable if the courser does not leave the screen completely.  
+The *-2* is optional but i find the program works better and more reliable if the courser does not leave the screen completely. 
+
+# How to run the sauce
+To run **the sauce** python3 is required. It may run on previous version but it was not intendet to. Due to the minimal nature
+of **the sauce** running it is also very simple and goes as follows:
+```
+python app.py
+```
+
+# How to exist the sauce
+You can **ctrl + c** to exit the program. If you are on Windows hitting **ctrl + alt + del** will also terminate the program.
+
+# Credits
+See credits [here.](https://github.com/jasZnerol/pythonMouseMover/blob/master/CONTRIBUTING.md)
+
+# License
+See license [here.](https://github.com/jasZnerol/pythonMouseMover/blob/master/LICENSE)
