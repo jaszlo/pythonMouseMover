@@ -16,6 +16,7 @@ For instance if you have a screen height of 1080 pixels you need to check if the
 ```
 m.position[1]>1078 or m.position[1]<0
 ```
+
 First of all note that m is the mouse object and position[1] gives the Y-position of the courser.
 But because **the sauce** needs to be as short as possible we do not check if the border is reached with a simple *greater* or *smaller* comparison.
 The shorter and less reliable way looks like this:
@@ -32,8 +33,8 @@ To make this program work for different resolutions you will have to edit **the 
 Those adjusements will be made in line 7 and 8.
 Change **the sauce** as follows:
 ```
-7   x=-x if m.position[0] in[<YOUR_SCREEN_WIDTH>  - 2,0] else x
-8   y=-y if m.position[1] in[<YOUR_SCREEN_HEIGHT> - 2,0] else y
+x*=1-2*(m.position[0] in[<WIDHT_OF_YOUR_SCREEN>  - 2,0])    
+y*=1-2*(m.position[1] in[<HEIGHT_OF_YOUR_SCREEN> - 2,0])
 ```
 The *-2* is optional but i find the program works better and more reliable if the courser does not leave the screen completely. 
 
