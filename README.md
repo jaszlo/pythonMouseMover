@@ -1,7 +1,7 @@
 # pythonMouseMover
 This is an opensauce "screensaver" written in python. **The sauce** should contain as few characters and lines as possible!
 In other words **the sauce** must be as compact as possible!  
-**The sauce** currently contains 181 characters. The record is an alternative solution by Reddit user [HolzmindenScherfede](https://www.reddit.com/user/HolzmindenScherfede/) with 157 characters!
+**The sauce** currently contains 181 characters. The record is an alternative solution by Reddit user [HolzmindenScherfede](https://www.reddit.com/user/HolzmindenScherfede/) with 158 characters!
   
 Before all else we want to thank you for choosing **pythonMouseMover**! :)
 
