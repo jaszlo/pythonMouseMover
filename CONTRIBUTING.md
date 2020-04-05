@@ -10,4 +10,4 @@ Therefore this is an attempt to credit all those clever and highly intellegent p
 |[@_jpSpj_ (Reddit)](https://www.reddit.com/user/_jpSpj_/)  | -                              | Minimizing the amount of lines       |
 |[@Audiblade (Reddit)](https://www.reddit.com/user/Audiblade/)| -                              | Minimizing the amount of characters  |
 |[@Puzzlp(Reddit)](https://www.reddit.com/user/Puzzlp/) |- | Eliminating if statement for less characters|
-|[@HolzmindenScherfede(Reddit)](https://www.reddit.com/user/HolzmindenScherfede/) | Better import by using a comma |
+|[@HolzmindenScherfede(Reddit)](https://www.reddit.com/user/HolzmindenScherfede/) | - | Better import by using a comma |
