@@ -28,9 +28,9 @@ In addition the program is written for screens with an aspect ratio of 16:9 with
 You can ignore the aspect ratio as it is a result of the resolution.
 If you have a different resolution and you want this project to *work* as it shohld you will have to make a few adjustments.
 
-# Adjusments
+# Adjustments
 To make this program work for different resolutions you will have to edit **the sauce**.
-Those adjusements will be made in line 7 and 8.
+Those adjustments will be made in line 7 and 8.
 Change **the sauce** as follows:
 ```
 x*=1-2*(m.position[0] in[<WIDHT_OF_YOUR_SCREEN>  - 2,0])    
