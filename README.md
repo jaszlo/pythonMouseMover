@@ -28,4 +28,4 @@ Change **the sauce** as follows:
 7   x=-x if m.position[0] in[<YOUR_SCREEN_WIDTH>  - 2,0] else x
 8   y=-y if m.position[1] in[<YOUR_SCREEN_HEIGHT> - 2,0] else y
 ```
-The *- 2* is optional but i find the program works better and more reliable if the courser does not leave the screen completely.  
+The *-2* is optional but i find the program works better and more reliable if the courser does not leave the screen completely.  
