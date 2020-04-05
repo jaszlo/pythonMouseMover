@@ -34,7 +34,7 @@ The *-2* is optional but i find the program works better and more reliable if th
 To run **the sauce** python3 is required. It may run on previous version but it was not intendet to. Due to the minimal nature
 of **the sauce** running it is also very simple and goes as follows:
 ```
-python app.py
+pip install -r requirements.txt && python app.py
 ```
 
 # How to exist the sauce
