@@ -4,4 +4,7 @@ In this branch all alternative solutions will be listed. This branch exist for p
 
 Those are the all alternative olutions so far:
 
-[HolzmindenScherfede]()
+[HolzmindenScherfede solution](https://github.com/jasZnerol/pythonMouseMover/blob/alternativeSolutions/HolzmindenScherfede.py)
+[HolzmindenScherfede Reddit](https://www.reddit.com/user/HolzmindenScherfede/)
+
+
