@@ -1,5 +1,4 @@
-import pynput.mouse as p
-import time
+import pynput.mouse as p, time
 m,x,y=p.Controller(),1,1
 while 1:
     m.move(x,y)
