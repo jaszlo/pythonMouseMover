@@ -13,7 +13,7 @@ First of all note that m is the mouse and position[1] gives the Y-position of th
 But because **the sauce** needs to be as short as possible we do not check if the border is reached with a simple *greater* or *smaller* comparison.
 The shorter and less reliable way looks like this:
 ```
-m.position[] in in[1078,0]
+m.position[1] in in[1078,0]
 ```
 This is less reliable in the sense that it will not work on every machine. To make it work the *lower* and *right* border values will require adjustment.
 In addition the program is written for screens with an aspect ratio of 16:9 with a resolution of 1920:1080 pixels. 
