@@ -5,6 +5,10 @@ In other words **the sauce** must be as compact as possible!
   
 Before all else we want to thank you for choosing **pythonMouseMover**! :)
 
+# Alternative solution
+ 
+Due to better solutions that I can not possibly take any credit for can be found on the branch [alternativeSolutions](https://github.com/jasZnerol/pythonMouseMover/tree/alternativeSolutions)
+
 # Unstable program?
 This program is **very** unstable because of how it checks if the courser has reached the border of the screen.
 
