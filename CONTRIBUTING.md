@@ -5,8 +5,8 @@ Therefore this is an attempt to credit all those clever and highly intellegent p
 
 |    Name           |           Email                |     Waht did they do?                |
 |-------------------|--------------------------------|--------------------------------------|
-|[@jasZnerol (Git)](https://github.com/jasZnerol)   |jasper@lorenzmail.de            |**the sauce**                         |       
-|[@ChristophScn (Git)](https://github.com/ChristophScn)|  christoph@hoebbel-schnell.de  | Logic simplification and more        |
+|[@jasZnerol (Git)](https://github.com/jaszlo)   | **REDACTED**            |**the sauce**                         |       
+|[@ChristophScn (Git)](https://github.com/ChristophScn)|  **REDACTED**  | Logic simplification and more        |
 |[@_jpSpj_ (Reddit)](https://www.reddit.com/user/_jpSpj_/)  | -                              | Minimizing the amount of lines       |
 |[@Audiblade (Reddit)](https://www.reddit.com/user/Audiblade/)| -                              | Minimizing the amount of characters  |
 |[@Puzzlp(Reddit)](https://www.reddit.com/user/Puzzlp/) |- | Eliminating if statement for less characters|
